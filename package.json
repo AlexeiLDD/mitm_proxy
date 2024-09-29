@@ -1,0 +1,21 @@
+{
+  "name": "mitm_proxy",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeiLDD/mitm_proxy.git"
+  },
+  "author": "AlexeiLDD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexeiLDD/mitm_proxy/issues"
+  },
+  "homepage": "https://github.com/AlexeiLDD/mitm_proxy#readme"
+}
