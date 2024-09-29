@@ -1,4 +1,4 @@
 # mitm_proxy
 
-Команда для звпуска:
+Команда для запуска:
 `docker compose up --build`.
